@@ -4,6 +4,6 @@ Kurulum - Windows
 
 # ÖNEMLİ AÇIKLAMA
 
-Bu alt yapıyı İhsan Baki Doğan hazırlamıştır. Yapımında Acar Sıradağ yardım etmiştir. https://discord.gg/CVX7MKu Sunucumuza gelip yardım alabilirsiniz.
+Bu alt yapıyı İhsan Baki Doğan hazırlamıştır. Yapımında Acar Sıradağ yardım etmiştir. https://discord.gg/MDZpjFT Sunucumuza gelip yardım alabilirsiniz.
 
-# Çalıntılık yapmayın yardım isterseniz sizlere yardımcı olabiliriz.
+# Xir Bot Destek Sunucumuz https://discord.gg/GkzwCgM
